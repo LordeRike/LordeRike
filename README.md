@@ -1,4 +1,8 @@
 # Olá!!! Sou Henrique!!!
+
+## Estudante de Gestão de Tecnologia da Informação na UniRitter. 
+
+
 <div>
   <a href="https://github.com/LordeRike">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LordeRike&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>

@@ -12,7 +12,6 @@
   <img align="center" alt="Rike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="RIke-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="RIke-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="RIke-yoda" src="https://im2.ezgif.com/tmp/ezgif-2-c2f20740d7d7.gif">
 </div>
   
   ##

@@ -1,6 +1,6 @@
 # Olá!!! Sou Henrique!!!
 
-## Estudante de Gestão de Tecnologia da Informação na UniRitter. 
+## Estudante de Análise e Desenvolvimento de Sistemas na Fadergs. 
 
 
 <div>
